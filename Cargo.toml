@@ -1,0 +1,7 @@
+[package]
+name = "pair_assignment"
+version = "0.1.0"
+authors = ["Luis Gerardo Manrique Cardona <luis.manrique@correounivalle.edu.co>"]
+
+[dependencies]
+lp-modeler = "0.3.1"

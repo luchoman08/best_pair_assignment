@@ -1,0 +1,14 @@
+[[package]]
+name = "lp-modeler"
+version = "0.3.1"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "pair_assignment"
+version = "0.1.0"
+dependencies = [
+ "lp-modeler 0.3.1 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[metadata]
+"checksum lp-modeler 0.3.1 (registry+https://github.com/rust-lang/crates.io-index)" = "89863444dd1db1913c5ad93b73ecad5414c24ecf66f0a275de84db0387212eb8"
